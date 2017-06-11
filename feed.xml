@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Middleman</title>
-  <subtitle>Makes developing websites simple.</subtitle>
-  <id>http://www.example.com</id>
-  <link href="http://www.example.com"/>
-  <link href="http://www.example.com/feed.xml" rel="self"/>
+  <title>Fabian Jahr</title>
+  <subtitle>Personal Blog</subtitle>
+  <id>https://fjahr.com</id>
+  <link href="https://fjahr.com"/>
+  <link href="https://fjahr.com/feed.xml" rel="self"/>
   <updated>2013-10-26T02:00:00+02:00</updated>
   <author>
     <name>Middleman</name>
   </author>
   <entry>
     <title>Welcome to Ghost</title>
-    <link rel="alternate" href="http://www.example.com/2013/10/26/welcome-to-ghost/"/>
-    <id>http://www.example.com/2013/10/26/welcome-to-ghost/</id>
+    <link rel="alternate" href="https://fjahr.com/2013/10/26/welcome-to-ghost/"/>
+    <id>https://fjahr.com/2013/10/26/welcome-to-ghost/</id>
     <published>2013-10-26T02:00:00+02:00</published>
     <updated>2017-05-29T13:39:39+02:00</updated>
     <author>
